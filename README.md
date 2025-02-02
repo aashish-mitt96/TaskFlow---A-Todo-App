@@ -7,7 +7,7 @@
 - **Task Management**: Users can create and delete tasks.
 - **Task Completion**: Mark tasks as completed.
 - **Responsive Design**: The app is fully responsive and works seamlessly across desktop, tablet, and mobile devices.
-- 
+
 ### Tech Stack:
 - **Frontend**: React + Vite
 - **UI Framework**: Tailwind CSS
